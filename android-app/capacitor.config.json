@@ -1,0 +1,11 @@
+{
+  "appId": "game.blockops.awparena",
+  "appName": "Block Ops",
+  "webDir": "dist",
+  "backgroundColor": "#102527",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}
